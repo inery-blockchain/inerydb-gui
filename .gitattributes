@@ -1,3 +1,4 @@
 inery-gui-macos filter=lfs diff=lfs merge=lfs -text
 inerydb-gui-linux filter=lfs diff=lfs merge=lfs -text
 inerydb-gui-win filter=lfs diff=lfs merge=lfs -text
+inerydb-gui-win.exe filter=lfs diff=lfs merge=lfs -text
